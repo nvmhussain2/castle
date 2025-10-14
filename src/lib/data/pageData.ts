@@ -118,8 +118,8 @@ export const Sociallinkdata: SocialType[] = [
 
 export const Footerlinkdata: FooterType[] = [
   { label: "Home", href: "/" },
-  { label: "Exchange", href: "/#exchange-section" },
-  { label: "Features", href: "/#features-section" },
-  { label: "FAQ", href: "/#faq-section" },
-  { label: "Contact Us", href: "/#contact" },
+  { label: "Download", href: "/#exchange-section" },
+  { label: "Comparison", href: "/#features-section" },
+  { label: "IOS", href: "/#faq-section" },
+  { label: "PC", href: "/#contact" },
 ];
